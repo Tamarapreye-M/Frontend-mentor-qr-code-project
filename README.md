@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qrcode-solution-built-with-css-flex-SkucImfS5)
+- Live Site URL: (https://frontend-mentor-qr-code-solution.netlify.app/)
 
 ## My process
 I started out with structuring my html, after whichh I got to styling.
